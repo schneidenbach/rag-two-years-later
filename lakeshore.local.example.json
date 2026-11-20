@@ -1,0 +1,13 @@
+{
+  "Lakeshore": {
+    "ProjectEndpoint": "https://<foundry-account>.services.ai.azure.com/api/projects/ignite-rag-demo",
+    "OpenAIEndpoint": "https://<foundry-account>.openai.azure.com",
+    "ChatDeployment": "gpt-5.5",
+    "MiniDeployment": "gpt-5.4-mini",
+    "EmbeddingDeployment": "text-embedding-3-small",
+    "SearchEndpoint": "https://<search-service>.search.windows.net",
+    "StorageAccount": "<storage-account>",
+    "ReasoningEffort": "low",
+    "PostgresConnection": "Host=<pg-server>.postgres.database.azure.com;Port=5432;Username=lakeshoreadmin;Password=<password>;Database=workorders;SslMode=Require"
+  }
+}

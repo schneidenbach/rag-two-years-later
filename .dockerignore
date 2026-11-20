@@ -1,0 +1,9 @@
+**/bin
+**/obj
+web
+recordings
+db
+docs-corpus
+infra
+lakeshore.local.json
+.env*

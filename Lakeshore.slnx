@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/db/">
+    <Project Path="db/Seeder/Seeder.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Lakeshore.Agents/Lakeshore.Agents.csproj" />
+    <Project Path="src/Lakeshore.Api/Lakeshore.Api.csproj" />
+    <Project Path="src/Lakeshore.Console/Lakeshore.Console.csproj" />
+    <Project Path="src/Lakeshore.HostedAgent/Lakeshore.HostedAgent.csproj" />
+  </Folder>
+</Solution>
